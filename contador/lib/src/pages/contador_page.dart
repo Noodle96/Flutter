@@ -7,6 +7,13 @@ class ContadorPage extends StatefulWidget {
   createState() => _ContadorPageState();
 }
 
+// ignore: todo
+/// TODO : test
+/// * Important information
+///  ! deprecated
+/// ? should this
+/// @param my_param
+
 class _ContadorPageState extends State<ContadorPage> {
   final _estiloTexto = const TextStyle(fontSize: 20);
   int _contador = 0;
