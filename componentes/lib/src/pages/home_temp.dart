@@ -11,6 +11,7 @@ class HomePageTemp extends StatelessWidget {
     'esqueletos',
     'espiritu de hielo',
     'espiritu electrico',
+    'espiritu de fuego',
     'zap'
   ];
   @override
